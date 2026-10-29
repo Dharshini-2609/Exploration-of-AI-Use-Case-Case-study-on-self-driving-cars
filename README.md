@@ -31,7 +31,8 @@ Example: When a self-driving car detects a pedestrian crossing the road, its AI 
 
 Thus, self-driving cars combine AI and sensor technologies to navigate roads, detect obstacles, and make driving decisions.
 
-# SAMPLE IMAGE
+# SAMPLE IMAGE - SELF-DRIVING CAR
+<img width="807" height="321" alt="image" src="https://github.com/user-attachments/assets/63fcc58b-b36b-4c00-a23f-263aadbf9c40" />
 
 
 # RESULT
